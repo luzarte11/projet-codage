@@ -11,13 +11,13 @@
 
 
 
-**Description du cours**
+### **Description du cours**
 
 Avec The Hacking Project, devenez un boucanier et découvrez les bases de l&#39;informatique pour lancer votre site Internet !
 
 Vous allez travailler ensemble en petits groupes, et découvrir l&#39;écran noir avec des projets concrets, l&#39;apprentissage en communauté, et l&#39;entraide entre élèves.
 
-**Programme et calendrier du cours**
+### **Programme et calendrier du cours**
 
 Ce programme n&#39;est pas définitif et peut être modifié en fonction des envies des élèves.
 
@@ -53,7 +53,7 @@ Ce programme n&#39;est pas définitif et peut être modifié en fonction des envies
 
 
 
-**Objectif du cours**
+### **Objectif du cours**
 
 Le cours a pour but principal de faire découvrir le monde des sites webs et de l&#39;informatique.
 
@@ -77,13 +77,13 @@ De plus, avec la pédagogie de l&#39;éducation de pairs, les étudiants seront cap
 
 
 
-**Exemple de projet**
+### **Exemple de projet**
 
 Réaliser à plusieurs un site internet au format _landing page_ pour présenter une idée de startup et le mettre en ligne.
 
 
 
-**Bibliographie succincte**
+### **Bibliographie succincte**
 
 Chacon, Scott ; Straub, Ben. _Pro Git_. Apress. 2014. 456 pages
 
@@ -93,11 +93,11 @@ Nebra, Mathieu. _Réalisez votre site web avec HTML 5 et CSS 3_. OpenClassrooms. 
 
 
 
-**Langue d&#39;enseignement**
+### **Langue d&#39;enseignement**
 
 Le cours est conçu pour des élèves français ; mais le monde de l&#39;informatique étant majoritairement anglo-saxon, il y aura un peu d&#39;anglais dans les ressources.
 
-**Matériel**
+### **Matériel**
 
 Pour le cours, vous aurez besoin d&#39;un ordinateur.
 
