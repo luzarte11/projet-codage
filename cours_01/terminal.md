@@ -6,11 +6,9 @@ Le terminal, le fameux écran noir qui fait peur à tout le monde en dehors du mon
 
 À la fin de la journée, tu comprendras enfin ce que font les développeurs derrière leur écran noir, et comment ils travaillent.
 
--
 
 ### [Ressources](https://www.thehackingproject.org/precursus/1#collapseTwo)
 
--
 
 ## 1. Le terminal
 
