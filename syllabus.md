@@ -1,5 +1,5 @@
 
-##SYLLABUS##
+## SYLLABUS
 
 
 
@@ -59,21 +59,21 @@ Le cours a pour but principal de faire découvrir le monde des sites webs et de l
 
 À la fin, les étudiants seront capables de :
 
-- --Concevoir une page web avec HTML
-- --Lui mettre de la mise en page avec CSS
-- --Insérer des animations avec JavaScript
-- --Le rendre adaptatif au mobile avec Bootstrap
-- --Manipuler l&#39;écran noir du terminal
-- --Mettre son code en ligne et travailler à plusieurs sur un projet avec Github
-- --Mettre en ligne son site internet
-- --Découvrir le monde merveilleux du jargon de l&#39;informatique
+- Concevoir une page web avec HTML
+- Lui mettre de la mise en page avec CSS
+- Insérer des animations avec JavaScript
+- Le rendre adaptatif au mobile avec Bootstrap
+- Manipuler l&#39;écran noir du terminal
+- Mettre son code en ligne et travailler à plusieurs sur un projet avec Github
+- Mettre en ligne son site internet
+- Découvrir le monde merveilleux du jargon de l&#39;informatique
 
 De plus, avec la pédagogie de l&#39;éducation de pairs, les étudiants seront capables de :
 
-- --S&#39;expliquer mutuellement des concepts compliqués
-- --Travailler en équipe sur les projets d&#39;entreprise
-- --Rechercher la bonne information
-- --Assimiler rapidement des bases théoriques pour les appliquer dans des projets
+- S&#39;expliquer mutuellement des concepts compliqués
+- Travailler en équipe sur les projets d&#39;entreprise
+- Rechercher la bonne information
+- Assimiler rapidement des bases théoriques pour les appliquer dans des projets
 
 
 
@@ -103,8 +103,8 @@ Pour le cours, vous aurez besoin d&#39;un ordinateur.
 
 Voici les différents logiciels à installer :
 
-- --Un terminal
-  - --Déjà installé sur macOS et Linux
-  - --Cygwin sur Windows
-- --Un éditeur de texte
-  - --Sublime Text ou Visual Studio Code
+- Un terminal
+  - Déjà installé sur macOS et Linux
+  - Cygwin sur Windows
+- Un éditeur de texte
+  - Sublime Text ou Visual Studio Code
